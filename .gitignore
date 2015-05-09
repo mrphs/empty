@@ -1,1 +1,3 @@
 /trivsocks-client
+*.o
+
